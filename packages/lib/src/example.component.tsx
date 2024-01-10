@@ -1,0 +1,1 @@
+export const Example = () => <div>Hello6</div>;
